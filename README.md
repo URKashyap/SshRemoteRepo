@@ -1,2 +1,6 @@
 This is a readme file
-<!--this is a comment-->
+<HTML>
+<HEAD>
+<H1>!--this is a comment--></H1>
+</HEAD>
+</HTML>
